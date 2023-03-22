@@ -2,7 +2,7 @@
 
 Are you looking for a full-stack web engineer? Reach out.
 
-I'm a front-end focued full-stack web engineer with advanced skills in **Javascript, Typescript, React, animation, & design**. See my [personal manifesto](https://github.com/JulienMartel/JulienMartel/personal-manifesto.md).
+I'm a front-end focued full-stack web engineer with advanced skills in **Javascript, Typescript, React, animation, & design**. See my [personal manifesto](https://github.com/JulienMartel/JulienMartel/blob/main/personal-manifesto.md).
 
 - 🔭 I’m currently working on [archillect wallpapers](https://aw.jubag.dev), [Binder](https://binder.jubag.dev), and more
 - 🌱 I’m currently looking for remote work
