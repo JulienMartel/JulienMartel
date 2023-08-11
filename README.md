@@ -2,7 +2,7 @@
 
 I'm a front-end focued full-stack web engineer with advanced skills in **Javascript, Typescript, React, animation, & design**. See my [personal manifesto](https://github.com/JulienMartel/JulienMartel/blob/main/personal-manifesto.md).
 
-- 🌱 I’m currently working at @monogramdesign
+- 🌱 I’m currently working at [@monogramdesign](https://github.com/monogramdesign)
 - 🔭 Side projects: [archillect wallpapers](https://aw.jubag.dev), [Binder](https://binder.jubag.dev), and more
 - 👯 I’m looking to collaborate on exciting projects
 - 🤔 I’m looking for help with ...
